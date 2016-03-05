@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"time"
 
-	"code.google.com/p/portaudio-go/portaudio"
+	"github.com/gordonklaus/portaudio"
 )
 
 // Transcriber transcribes an audio file
